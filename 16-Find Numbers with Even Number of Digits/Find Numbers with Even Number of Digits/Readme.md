@@ -1,0 +1,1 @@
+Math.log10(num[i])+1 -> length of the digits;
